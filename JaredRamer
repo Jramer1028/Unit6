@@ -1,1 +1,14 @@
-
+Internet Architecture-
+ia: An IP adress is what computers use to deliver messages to one another with out having the data that it sent go to any other place. It is like when you send a letter in the mail, and you put the houses adress on it; by putting the adress on the letterm, you make sure that the postal service knows where to deliver the letter. An IP adress works in the same way.
+  For 30 years we used IPv4 IP addresses, and that gave us around 4 billion IP adresses to use. This was a lot at the time, because not as many people had access to the internet, so there wasn't as high a demand for soo many IP adresses. But then as the internet grew, more IP addresses were needed, so we swiched to a IPv6.
+  An IPv6 is much longer than the Ipv4, and can use hexadecimal numbers, which can compact more information into a smaller space. 
+  The main difference between the two is that the IPv6 has about 340 undecillion addresses. 
+  
+  ib: I have a IPv6 adress that is 2600:1700:9ad0:ff20::3e8
+  
+  ic: "ICANN is responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network's stable and secure operation"- (ICANN.org)
+    They help manage the IP addresses and ensure that no errors occure and that no IP addresses are the same. 
+    
+  TCP/IP 
+ ia: TCP/IP is supposed to make sure that when a message is sent and broken up into "packets", that it all re-collects into the same place. They controll how data is trasfered between routers, hubs, and switches. It was developed by the US defense department to try and attempt to connect governmernt systems all accross the globe. 
+  

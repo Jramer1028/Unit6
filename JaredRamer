@@ -12,3 +12,11 @@ ia: An IP adress is what computers use to deliver messages to one another with o
   TCP/IP 
  ia: TCP/IP is supposed to make sure that when a message is sent and broken up into "packets", that it all re-collects into the same place. They controll how data is trasfered between routers, hubs, and switches. It was developed by the US defense department to try and attempt to connect governmernt systems all accross the globe. 
   
+ ib: In a TCP/IP, the client is the compter or device that makes the request to connect to another device, and the server is the computer or device that is waiting to answer that request.
+ 
+ ic:
+  1: Layered protocols are better for changing technology, because a person can change just one layer, and not have it affect any of the other layers. This allows technology to progress at its own pace, and not have it to be changed all at once.
+  2: The applications HTTP, FTP, POP3, SMTP, and SNMP are the applications that run on the "Application" layer. HTTP is the work house of the internet, and most applicatins use the TCP tranmission protocol. 
+  
+  Internet security-
+  

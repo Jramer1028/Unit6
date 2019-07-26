@@ -1,4 +1,4 @@
-Internet Architecture-
+INTERNET ARCHITECTURE-
 ia: An IP adress is what computers use to deliver messages to one another with out having the data that it sent go to any other place. It is like when you send a letter in the mail, and you put the houses adress on it; by putting the adress on the letterm, you make sure that the postal service knows where to deliver the letter. An IP adress works in the same way.
   For 30 years we used IPv4 IP addresses, and that gave us around 4 billion IP adresses to use. This was a lot at the time, because not as many people had access to the internet, so there wasn't as high a demand for soo many IP adresses. But then as the internet grew, more IP addresses were needed, so we swiched to a IPv6.
   An IPv6 is much longer than the Ipv4, and can use hexadecimal numbers, which can compact more information into a smaller space. 
@@ -21,3 +21,10 @@ ia: An IP adress is what computers use to deliver messages to one another with o
   Internet security-
   ia: HTTP is what applications use to allow the user to view web pages. The standard HTTP is sent through clear text, so it is bery easy for hackers to view what is being sent, allowing them to get personal information. 
   ib: The protocols that HTTP use is that it encrypts the information being sent using a encryption algorythem; making it impossible for a hacker to know what is being sent. 
+
+  Internet Architecture-
+    ia: Securing your web browser is very important because the majority of people have a tendancy to make ignorant actions that leave them vulnerable to attacks. Most devices that consumers purchase come with pre-installed software, and what is troublesome for those users is that they do not check what software is installed and how the programs on that software interact with eachother. This is why people should secure their web browsers.
+    ib: Cross-Site Scripting- is when a website is vulnerable and gives atackers the possibility to leverage a "trust relationship" onto the web site that you are using.
+    
+  INTERNET PROGRAMMING-
+  

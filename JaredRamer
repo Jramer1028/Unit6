@@ -27,4 +27,7 @@ ia: An IP adress is what computers use to deliver messages to one another with o
     ib: Cross-Site Scripting- is when a website is vulnerable and gives atackers the possibility to leverage a "trust relationship" onto the web site that you are using.
     
   INTERNET PROGRAMMING-
-  
+   World Wide Web Consortium-
+   ia: Tim Berners-Lee was the inventor of the World Wide Web, which he developed in 1990, and in 1994, Tim founded the World Wide Web Consortium (W3C) to help the Web spread so it could become a truly "World Wide Web".
+   ib: A standard is an agreed way of designing things, so other people can understand what applications or codes you have put in your program. My favorite standard is that if you right-click anywhere on the page, it opens a small window that allows the user to click on something. 
+   
